@@ -12,11 +12,11 @@ A professional paper trading terminal with Binance integration, built with Pytho
 ## 📸 Interface Overview
 
 ### Main Trading Interface
-![Main Interface](https://raw.githubusercontent.com/your-username/your-repo-name/main/assets/images/main-interface.png)
+![Main Interface](https://raw.githubusercontent.com/blind192/binance-terminal/main/assets/images/main-interface.png)
 *Real-time candlestick charts with trading controls and market data*
 
 ### Order Creation Dialog  
-![Order Dialog](https://raw.githubusercontent.com/your-username/your-repo-name/main/assets/images/order-dialog.png)
+![Order Dialog](https://raw.githubusercontent.com/blind192/binance-terminal/main/assets/images/order-dialog.png)
 *Order creation window with stop-loss and take-profit settings*
 
 ## ✨ Features
