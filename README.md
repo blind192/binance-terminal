@@ -5,7 +5,7 @@
 ![Binance](https://img.shields.io/badge/Exchange-Binance-orange.svg)
 ![MVC](https://img.shields.io/badge/Architecture-MVC-purple.svg)
 
-A professional paper trading terminal with Binance integration, built with Python and PyQt5, featuring real-time market data, technical charts, and simulated trading capabilities.
+A paper trading terminal with Binance integration, built with Python and PyQt5, featuring real-time market data, technical charts, and simulated trading capabilities.
 
 > 🚀 **Project developed with assistance from DeepSeek AI**
 
